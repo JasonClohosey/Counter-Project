@@ -1,7 +1,36 @@
 body {
     background-color: black;
     color: white;
+    text-align: center;
 }
-div {
+.container {
     border: solid 1px white;
+    margin: auto;
+    height: 40%;
+    width: 20rem;
+    margin-top: 10rem;
+    text-align: center;
+    justify-content: center;
+    /* width: fit-content; */
+    /* padding: 1rem 1rem 1rem 1rem;  */
+}
+h3 {
+    margin: auto;
+    text-align: center;
+    margin-left: 6.6rem;
+    margin-top: 2rem;
+}
+button { 
+    background-color: white;
+    color: black;
+    margin: auto;
+    width: 7rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+
+}
+#number {
+    color: white;
+    margin-left: 9rem;
+    margin-top: 1rem;
 }
